@@ -1,6 +1,6 @@
-<h1 align="center">Oi, eu sou a Éveli! 👋</h1>
+<h1 align="left">Oi, eu sou a Éveli! 👋</h1>
 
-<p align="center">
+<p align="left">
   💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
   🎓 Apaixonada por aprender e compartilhar conhecimento <br>
   🚀 Explorando o mundo do desenvolvimento web, bots e projetos com impacto social <br>
@@ -11,17 +11,17 @@
 
 ### 🚧 Em construção:
 
-- 🧠 Estudando: `Python`, `HTML`, `CSS`, `JavaScript`, `Git e GitHub`
-- 📚 Projetos em andamento:  
-  - `SOS Maricá`: um bot no WhatsApp para conectar a população com serviços públicos e privados da cidade
-  - `Calendário Acadêmico`: sistema com login, eventos e navegação por meses
-  - `Desafios Python`: exercícios e projetos para treinar lógica de programação
+-  Estudando: `Python`, `HTML`, `CSS`, `JavaScript`, `Git e GitHub`
+-  Projetos em andamento:  
+   - `SOS Maricá`: um bot no WhatsApp para conectar a população com serviços públicos e privados da cidade
+   - `Calendário Acadêmico`: sistema com login, eventos e navegação por meses
+   - `Desafios Python`: exercícios e projetos para treinar lógica de programação
 
 ---
 
-### 🧰 Tecnologias que estou aprendendo:
+###  Tecnologias que estou aprendendo:
 
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
@@ -31,11 +31,11 @@
 
 ---
 
-### 📌 Alguns repositórios legais por aqui:
+###  Alguns repositórios legais por aqui:
 
-- 🧭 [`sos-marica`](https://github.com/Eveli-lima/sos-marica): Bot informativo no WhatsApp
-- 📅 [`calendario-academico`](https://github.com/Eveli-lima/calendario-academico): Organizador de tarefas estudantis
-- 🧠 [`dio-resumos`](https://github.com/Eveli-lima/dio-resumos): Resumos e desafios dos cursos da DIO
+-  [`sos-marica`](https://github.com/Eveli-lima/sos-marica): Bot informativo no WhatsApp
+-  [`calendario-academico`](https://github.com/Eveli-lima/calendario-academico): Organizador de tarefas estudantis
+-  [`dio-resumos`](https://github.com/Eveli-lima/dio-resumos): Resumos e desafios dos cursos da DIO
 
 ---
 
@@ -45,5 +45,5 @@
 
 ---
 
-<p align="center">✨ Obrigada pela visita! Volte sempre! ☕</p>
+<p align="left"> Obrigada pela visita! Volte sempre! </p>
 
