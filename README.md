@@ -1,6 +1,9 @@
-<p align="left">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
+
+![Status](https://img.shields.io/badge/Dev%20em-Aprendizado-purple?style=for-the-badge)
+![Cafe](https://img.shields.io/badge/Powered%20by-Coffee☕-orange?style=for-the-badge)
 
 <h1 align="left">Oi, eu sou a Éveli! 👋</h1>
 
@@ -60,4 +63,8 @@
 ---
 
 <p align="left"> ❤️ Obrigada pela visita! Volte sempre! </p>
+
+<p align="left">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+</p>
 
