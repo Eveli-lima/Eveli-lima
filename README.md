@@ -45,13 +45,34 @@
 
 ---
 
+###  Minhas estatísticas no GitHub:
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eveli-lima&show_icons=true&theme=tokyonight" alt="Eveli GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eveli-lima&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Eveli-lima&show_icons=true&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF&icon_color=30A3DC" alt="Estatísticas de Éveli"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eveli-lima&layout=compact&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF" alt="Linguagens mais usadas por Éveli"/>
+</p>
+
+<p align="left">
+  <a href="https://github.com/Eveli-lima/dio-lab-open-source">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Eveli-lima&repo=dio-lab-open-source&bg_color=000000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFFFFF" alt="Repositório em destaque"/>
+  </a>
 </p>
 
 ---
+
+### Meu ritmo de contribuições
+
+<p align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Eveli-lima&theme=bear&background=000000&border=30A3DC&dates=FFFFFF" alt="GitHub Streak de Éveli" />
+  </a>
+</p>
+
+---
+
 
 ### 🌍 Onde me encontrar:
 
