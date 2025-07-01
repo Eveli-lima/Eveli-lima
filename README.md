@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" />
+</p>
+
 <h1 align="left">Oi, eu sou a Éveli! 👋</h1>
 
 <p align="left">
@@ -38,11 +42,22 @@
 
 ---
 
-### 📫 Fale comigo:
-
-- ✉️ **Email:** eveliazevedo70.gmail.com
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eveli-lima&show_icons=true&theme=tokyonight" alt="Eveli GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eveli-lima&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
-<p align="left"> Obrigada pela visita! Volte sempre! </p>
+### 🌍 Onde me encontrar:
+
+[![Gmail](https://img.shields.io/badge/Email-eveliazevedo70@gmail.com-red?style=flat&logo=gmail)](mailto:eveliazevedo70@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Eveli--lima-black?style=flat&logo=github)](https://github.com/Eveli-lima)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-em%20constru%C3%A7%C3%A3o-blue?style=flat&logo=linkedin)](#)
+
+
+---
+
+<p align="left"> ❤️ Obrigada pela visita! Volte sempre! </p>
 
