@@ -33,8 +33,7 @@
 
 ###  Alguns repositórios legais por aqui:
 
--  [`sos-marica`](https://github.com/Eveli-lima/sos-marica): Bot informativo no WhatsApp
--  [`calendario-academico`](https://github.com/Eveli-lima/calendario-academico): Organizador de tarefas estudantis
+-  [`sos-marica`](https://github.com/Eveli-lima/sos_marica): Bot informativo no WhatsApp
 -  [`dio-resumos`](https://github.com/Eveli-lima/dio-resumos): Resumos e desafios dos cursos da DIO
 
 ---
