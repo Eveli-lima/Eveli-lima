@@ -40,7 +40,7 @@
 
 ### 📫 Fale comigo:
 
-- ✉️ **Email:** eveliazevedo70#gmail.com
+- ✉️ **Email:** eveliazevedo70.gmail.com
 
 ---
 
