@@ -53,18 +53,19 @@
   
   ### 🤖 SOS Maricá
   - **Descrição:** Um bot para WhatsApp que centraliza e facilita o acesso a informações e serviços públicos e privados da cidade de Maricá.
-  - **Tecnologias:** `Python`, `APIs de Mensageria`.
+  - **Tecnologias:** `Python`, `twilio` `Flask`.
   - **Status:** Em desenvolvimento.
   - **Repositório:** [`sos-marica`](https://github.com/Eveli-lima/sos_marica)
-
-  ### 📅 Calendário Acadêmico
-  - **Descrição:** Um sistema web para organização de eventos acadêmicos, com funcionalidades de login, cadastro de eventos e navegação por datas.
-  - **Tecnologias:** `HTML`, `CSS`, `JavaScript`.
-  - **Status:** Em fase de planejamento.
 
   ### 🐍 Desafios Python
   - **Descrição:** Minha coleção pessoal de exercícios e pequenos projetos para aprimorar a lógica de programação e aprofundar meu conhecimento em Python.
   - **Repositório:** [`dio-resumos`](https://github.com/Eveli-lima/dio-resumos).
+
+  ### 📚 Guias para Consultas
+  - **Descrição:** Um repositório com anotações, comandos e guias rápidos para consulta sobre diversas tecnologias.
+  - **Tecnologias:** `Git e Github` `Ambiente virtual do python` e outros.
+  - **Status:** Em constante atualização.
+  - **Repositório:** [`Guias-para-consultas`](https://github.com/Eveli-lima/Guias-para-consultas)
 
 </div>
 
